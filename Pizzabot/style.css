@@ -1,0 +1,28 @@
+.organize {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  background-color: orange;
+}
+
+.order,
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.numberPizza {
+  display: flex;
+  padding-top: 20px;
+}
+
+.button {
+  height: 30px;
+  width: 70px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 10px;
+}
